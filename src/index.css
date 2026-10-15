@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-pink-primary: #ec4899;
+    --color-pink-glow: rgba(236, 72, 153, 0.35);
+  }
+
+  html {
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: #0b0612;
+    background-image: 
+      radial-gradient(1000px 700px at 50% 0%, rgba(236, 72, 153, 0.12), transparent 70%),
+      radial-gradient(600px 500px at 90% 40%, rgba(219, 39, 119, 0.06), transparent 60%);
+    color: #f3f4f6;
+    min-height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0714;
+}
+::-webkit-scrollbar-thumb {
+  background: #ec4899;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f472b6;
+}
+
+/* Glassmorphism with Pink Tint */
+.glass-nav {
+  background: rgba(13, 6, 18, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(236, 72, 153, 0.15);
+}
+
+.glass-modal {
+  background: rgba(18, 9, 26, 0.96);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(236, 72, 153, 0.25);
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.8), 0 0 35px -5px rgba(236, 72, 153, 0.2);
+}
+
+.card-pink-hover {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.card-pink-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(236, 72, 153, 0.45);
+  box-shadow: 0 12px 30px -10px rgba(236, 72, 153, 0.25);
+}
+
+/* Button click feedback */
+.btn-press {
+  transition: transform 0.1s ease-in-out;
+}
+.btn-press:active {
+  transform: scale(0.96);
+}
+
+/* Pink glow animations */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(236, 72, 153, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(236, 72, 153, 0.6);
+  }
+}
+
+.animate-pulse-pink {
+  animation: pulseGlow 2.5s infinite;
+}

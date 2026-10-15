@@ -1,0 +1,2682 @@
+{
+  "subjects": {
+    "8": [
+      {
+        "subjectid": "24",
+        "subject_name": "Ideas On Interview",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-04-16-0.5488466006413657.jpeg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "25",
+        "subject_name": "Mock Interviews",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-10-05-0_20925019805588896.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "54",
+        "subject_name": "LECTURE",
+        "subject_logo": "",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "15",
+        "subject_name": "Introduction",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.40097699857388425.jpeg",
+        "sortingparam": "1.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "18",
+        "subject_name": "Bio Data",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.9113938599148788.jpeg",
+        "sortingparam": "1.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "20",
+        "subject_name": "Demo",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-22-0.5616258193197652.jpeg",
+        "sortingparam": "1.20",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "21",
+        "subject_name": "Kendriya Vidyalaya Culture",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.08986708635992757.jpeg",
+        "sortingparam": "1.30",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "23",
+        "subject_name": "Lesson Plan",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.2033208455453135.jpeg",
+        "sortingparam": "1.50",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "16",
+        "subject_name": "Spoken English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.4527820530694582.png",
+        "sortingparam": "1.60",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "152": [
+      {
+        "subjectid": "9",
+        "subject_name": "Computer",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-01-28-0.01664941825634081.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "24",
+        "subject_name": "Ideas On Interview",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-04-16-0.5488466006413657.jpeg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "25",
+        "subject_name": "Mock Interviews",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-10-05-0_20925019805588896.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "15",
+        "subject_name": "Introduction",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.40097699857388425.jpeg",
+        "sortingparam": "1.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "18",
+        "subject_name": "Bio Data",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.9113938599148788.jpeg",
+        "sortingparam": "1.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "20",
+        "subject_name": "Demo",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-22-0.5616258193197652.jpeg",
+        "sortingparam": "1.20",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "21",
+        "subject_name": "Kendriya Vidyalaya Culture",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.08986708635992757.jpeg",
+        "sortingparam": "1.30",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "23",
+        "subject_name": "Lesson Plan",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.2033208455453135.jpeg",
+        "sortingparam": "1.50",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "16",
+        "subject_name": "Spoken English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.4527820530694582.png",
+        "sortingparam": "1.60",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "7",
+        "subject_name": "Pedagogy",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-03-03-0.7955845691361889.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "247": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "166",
+        "subject_name": "Economy ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_416009208647966.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "167",
+        "subject_name": "Geography ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_80186506225068.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "168",
+        "subject_name": "History  (GS )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_7009915634465778.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "186",
+        "subject_name": "Computer Literacy",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-12-03-0_8496127646038635.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "183",
+        "subject_name": "Modern History",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-10-30-0_6839857959118085.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "363": [
+      {
+        "subjectid": "24",
+        "subject_name": "Ideas On Interview",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-04-16-0.5488466006413657.jpeg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "25",
+        "subject_name": "Mock Interviews",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-10-05-0_20925019805588896.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "15",
+        "subject_name": "Introduction",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.40097699857388425.jpeg",
+        "sortingparam": "1.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "259",
+        "subject_name": "DOCUMENTS",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-10-05-0_9665949368563281.png",
+        "sortingparam": "1.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "18",
+        "subject_name": "Bio Data",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.9113938599148788.jpeg",
+        "sortingparam": "1.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "20",
+        "subject_name": "Demo",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-22-0.5616258193197652.jpeg",
+        "sortingparam": "1.20",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "21",
+        "subject_name": "Kendriya Vidyalaya Culture",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.08986708635992757.jpeg",
+        "sortingparam": "1.30",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "23",
+        "subject_name": "Lesson Plan",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-25-0.2033208455453135.jpeg",
+        "sortingparam": "1.50",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "16",
+        "subject_name": "Spoken English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.4527820530694582.png",
+        "sortingparam": "1.60",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "364": [
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "36",
+        "subject_name": "CTET NOTES",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-05-08-0.23432050071690846.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "72",
+        "subject_name": "Math's  (Paper -2)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.5006886461628894.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "73",
+        "subject_name": "Math's  (Paper -1)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.46747387517944006.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "220",
+        "subject_name": "Maithili",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-05-0_10090053554529721.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "244",
+        "subject_name": "Important Questions",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_7697291398172869.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "245",
+        "subject_name": "Maths Pedagogy",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_67929060586641.png",
+        "sortingparam": "100.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "185",
+        "subject_name": "URDU",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-06-0_28895187286860136.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "56": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "66",
+        "subject_name": "World History",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-07-23-0.755557099934796.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "86",
+        "subject_name": "\u0939\u093f\u0928\u094d\u0926\u0940 \u0935\u094d\u092f\u093e\u0915\u0930\u0923",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-15-0.05842008969097834.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "92",
+        "subject_name": "Hindi \u0915\u093e\u0935\u094d\u092f\u0936\u093e\u0938\u094d\u0924\u094d\u0930",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-08-0.8561033921943364.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "93",
+        "subject_name": "Hindi (\u092d\u093e\u0937\u093e)",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-14-0.9606587692484654.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "81",
+        "subject_name": "Reasoning (General Paper)",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-13-0.008714194869977154.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "72": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "88",
+        "subject_name": "English Literature",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-24-0.5656367834126004.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "90",
+        "subject_name": "Maths Tahir Sir",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.26499138443105497.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      }
+    ],
+    "75": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "64",
+        "subject_name": "General Math's",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-26-0.8924898560080601.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "66",
+        "subject_name": "World History",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-07-23-0.755557099934796.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "88",
+        "subject_name": "English Literature",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-24-0.5656367834126004.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "102",
+        "subject_name": "PREVIOUS YEAR QUESTION PAPER",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-09-05-0.500119085131308.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "278": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "90",
+        "subject_name": "Maths Tahir Sir",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.26499138443105497.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "161",
+        "subject_name": "Sanskrit \u0938\u093e\u0939\u093f\u0924\u094d\u092f",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-12-0_18570328763929056.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      }
+    ],
+    "281": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "99",
+        "subject_name": "ICT",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-01-28-0.826841402259543.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "161",
+        "subject_name": "Sanskrit \u0938\u093e\u0939\u093f\u0924\u094d\u092f",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-12-0_18570328763929056.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "166",
+        "subject_name": "Economy ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_416009208647966.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "167",
+        "subject_name": "Geography ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_80186506225068.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "168",
+        "subject_name": "History  (GS )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_7009915634465778.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "170",
+        "subject_name": "Polity ( GS)",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-24-0_4725215105837487.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "187",
+        "subject_name": "Physics (G.S)",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-12-04-0_7202900835999932.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "78",
+        "subject_name": "Hindi (\u0938\u093e\u0939\u093f\u0924\u094d\u092f)",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-15-0.5924122592609931.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "263",
+        "subject_name": "UPTET PYQ",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-10-14-0_9106597057463599.png",
+        "sortingparam": "1.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "242",
+        "subject_name": "Static GK",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-12-0_8927016955723824.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "248": [
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "36",
+        "subject_name": "CTET NOTES",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-05-08-0.23432050071690846.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "56",
+        "subject_name": "MARATHON",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-08-21-0.12089362063346387.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "72",
+        "subject_name": "Math's  (Paper -2)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.5006886461628894.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "73",
+        "subject_name": "Math's  (Paper -1)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.46747387517944006.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "200",
+        "subject_name": "OMR SHEET",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-21-0_3822375030022598.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "220",
+        "subject_name": "Maithili",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-05-0_10090053554529721.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "244",
+        "subject_name": "Important Questions",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_7697291398172869.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "185",
+        "subject_name": "URDU",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-06-0_28895187286860136.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "249": [
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "36",
+        "subject_name": "CTET NOTES",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-05-08-0.23432050071690846.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "56",
+        "subject_name": "MARATHON",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-08-21-0.12089362063346387.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "73",
+        "subject_name": "Math's  (Paper -1)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.46747387517944006.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "200",
+        "subject_name": "OMR SHEET",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-21-0_3822375030022598.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "220",
+        "subject_name": "Maithili",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-05-0_10090053554529721.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "244",
+        "subject_name": "Important Questions",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_7697291398172869.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "185",
+        "subject_name": "URDU",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-06-0_28895187286860136.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "366": [
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "36",
+        "subject_name": "CTET NOTES",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-05-08-0.23432050071690846.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "73",
+        "subject_name": "Math's  (Paper -1)",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-11-15-0.46747387517944006.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "220",
+        "subject_name": "Maithili",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-05-0_10090053554529721.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "244",
+        "subject_name": "Important Questions",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_7697291398172869.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "185",
+        "subject_name": "URDU",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-06-06-0_28895187286860136.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "349": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "17",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-20-0.9424075711943158.jpeg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "99",
+        "subject_name": "ICT",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-01-28-0.826841402259543.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "161",
+        "subject_name": "Sanskrit \u0938\u093e\u0939\u093f\u0924\u094d\u092f",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-12-0_18570328763929056.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "166",
+        "subject_name": "Economy ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_416009208647966.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "167",
+        "subject_name": "Geography ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_80186506225068.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "168",
+        "subject_name": "History  (GS )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-22-0_7009915634465778.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "170",
+        "subject_name": "Polity ( GS)",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-24-0_4725215105837487.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "187",
+        "subject_name": "Physics (G.S)",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-12-04-0_7202900835999932.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "78",
+        "subject_name": "Hindi (\u0938\u093e\u0939\u093f\u0924\u094d\u092f)",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-15-0.5924122592609931.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "246",
+        "subject_name": "Chemistry  ( G.S )",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-21-0_7232187606558017.png",
+        "sortingparam": "99.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "242",
+        "subject_name": "Static GK",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-12-0_8927016955723824.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ],
+    "177": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "323": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "3",
+        "subject_name": "Reasoning",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.9441157290869231.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "5",
+        "subject_name": "EVS",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.2098958631871961.png",
+        "sortingparam": "5.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "179": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "88",
+        "subject_name": "English Literature",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-24-0.5656367834126004.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "319": [
+      {
+        "subjectid": "12",
+        "subject_name": "Current Affairs",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-01-23-0.628590909768467.jpg",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "32",
+        "subject_name": "Bihar General Knowledge",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.6145933749480346.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "64",
+        "subject_name": "General Math's",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-26-0.8924898560080601.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "87",
+        "subject_name": "English Grammar",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-16-0.5723671875862855.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "88",
+        "subject_name": "English Literature",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-24-0.5656367834126004.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      }
+    ],
+    "361": [
+      {
+        "subjectid": "19",
+        "subject_name": "General Science",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-24-0.8293538308460997.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "28",
+        "subject_name": "Sanskrit",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-07-0.4714318681058922.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "31",
+        "subject_name": "CDP",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-06-01-0.17576180808501118.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "48",
+        "subject_name": "Indian National Movement",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-16-0.48753581359998965.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "51",
+        "subject_name": "Sachin Sir",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-31-0.03873129433908429.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "57",
+        "subject_name": "Biology",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.3528825072420707.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "58",
+        "subject_name": "Physics",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.9694028073690029.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "59",
+        "subject_name": "Chemistry",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-10-05-0.7333791668365985.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "89",
+        "subject_name": "MATHS",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-01-0.4628592810072427.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "94",
+        "subject_name": "E-BOOK",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-04-11-0.22841994867458326.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "98",
+        "subject_name": "Jharkhand General Knowledge",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-08-05-0.20641737986064457.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "99",
+        "subject_name": "ICT",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-01-28-0.826841402259543.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "161",
+        "subject_name": "Sanskrit \u0938\u093e\u0939\u093f\u0924\u094d\u092f",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-08-12-0_18570328763929056.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "213",
+        "subject_name": "Khortha",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-05-10-0_25539056921833825.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "244",
+        "subject_name": "Important Questions",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2026-08-17-0_7697291398172869.png",
+        "sortingparam": "0.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "4",
+        "subject_name": "Hindi",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.02347664195933441.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "6",
+        "subject_name": "English",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.7429681337816603.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "22",
+        "subject_name": "Polity",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-01-0.21863530119687957.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "33",
+        "subject_name": "Economy",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-08-0.9596193863933691.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "35",
+        "subject_name": "Geography",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-10-0.40459923518302854.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "50",
+        "subject_name": "History",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-05-21-0.2424412499109354.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "78",
+        "subject_name": "Hindi (\u0938\u093e\u0939\u093f\u0924\u094d\u092f)",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-01-15-0.5924122592609931.png",
+        "sortingparam": "0.10",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "91",
+        "subject_name": "YouTube PDFs",
+        "subject_logo": "https://appxcontent.kaxa.in/subject/2024-02-06-0.8695518868349033.png",
+        "sortingparam": "2.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "2",
+        "subject_name": "Math's",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-07-0.3900038785596165.png",
+        "sortingparam": "6.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "10",
+        "subject_name": "CLASS TIMETABLE",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2022-12-28-0.8260991686000543.jpg",
+        "sortingparam": "7.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "14",
+        "subject_name": "DEMO CLASSES",
+        "subject_logo": "https://appx-wsb-gcp.akamai.net.in/subject/2023-03-12-0.22288713789133774.JPG",
+        "sortingparam": "9.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "183",
+        "subject_name": "Modern History",
+        "subject_logo": "https://appx-content-v2.classx.co.in/subject/2025-10-30-0_6839857959118085.png",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      },
+      {
+        "subjectid": "214",
+        "subject_name": "JHARKHAND TET",
+        "subject_logo": "",
+        "sortingparam": "999.00",
+        "is_paid": "1"
+      }
+    ]
+  },
+  "topics": {}
+}
